@@ -1,7 +1,6 @@
 #include <iostream>
 #include <stack>
 
-
 int pr(char x)
 {
     if (x == '(')return 0;
